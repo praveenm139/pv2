@@ -82,5 +82,6 @@ JINDAL, A., PODOLSKIY, V. & GERNDT, M. 2019. Performance Modeling for Cloud Micr
 
 WANG, Y., ZHAO, C., YANG, S., REN, X., WANG, L., ZHAO, P. & YANG, X. 2021. MPCSM: Microservice Placement for Edge-Cloud Collaborative Smart Manufacturing. IEEE Transactions on Industrial Informatics, 17, 5898-5908.
 Huang, X, Zhou, S, Savage, N & Zhang, W 2021, A distributed cloud Honeypot architecture. in WK Chan, B Claycomb, H Takakura, J-J Yang, Y Teranishi, D Towey, S Segura, H Shahriar, S Reisman & SI Ahamed (eds), 2021 IEEE 45th Annual Computers, Software, and Applications Conference, COMPSAC 2021. IEEE COMPSAC Proceedings Series, Institute of Electrical and Electronics Engineers Inc., pp. 1176-1181, 45th IEEE Annual Computers, Software, and Applications Conference, COMPSAC 2021, Virtual, Online, Spain, 12/07/21. https://doi.org/10.1109/COMPSAC51774.2021.00162
+
 MIKAIL, A. & PRANGGONO, B. 2019. Securing Infrastructure-as-a-Service Public Clouds Using Security Onion. Applied System Innovation, 2, 6.
 
